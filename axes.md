@@ -1022,7 +1022,7 @@ Here we define a complex type that is made up struct with some base types and an
 }
 ~~~~
 
-
+(Tis is meta data or? It would be helpful while reading if you see, if this is data or meta data directly... Perhaps I read it to fast.)
 
 Here we get the following values in 1 data block:
 
@@ -1032,3 +1032,5 @@ Here we get the following values in 1 data block:
 - array with 10 structs containing:
   * a double value freuqency 
   * 360 double spectrum values for the amplitude over phase
+  
+ ( All in all I think this is a good description and I can understand it most of all and I think if i read it more then one times it would be become more clearer for me. But be aware, I have some pre knowledge...)
