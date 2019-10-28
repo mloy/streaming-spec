@@ -484,6 +484,8 @@ Each value point has an absolute time stamp and one u32 value.
 
 ### A Simple Counter
 
+(This makes sense how it works, but what is the use case for this? This is not a protocol specific question, more a question of the point of view a DAQ system.) 
+
 - The value is expressed as a base value type
 - The count value is equidistant with an increment of 2, it runs in one direction
 - The device sends an initial absolute value.
