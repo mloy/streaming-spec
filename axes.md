@@ -272,7 +272,7 @@ The rule is simple: There is a start value. The value equals the start value unt
 
 ### cpb Rule
 
-
+(WHAT IS THIS RULE) I don't know what cpb is...
 
 ~~~~ {.javascript}
 {
