@@ -126,7 +126,7 @@ An array of values of the same type. The number of elements is fixed.
 {
   "valueTpe": "array",
   "array" : {
-    "count" : <unsigned int>
+    "count" : <unsigned int> (Is this not more the size or the length of the array? Or do I missunderstand it?) 
     "valueType" : <string>,
   }
   "name": "array name"
@@ -135,7 +135,7 @@ An array of values of the same type. The number of elements is fixed.
 
 ### Struct
 
-A combination of named members which bay be of different Types.
+A combination of named members which (may?) be of different Types.
 
 ~~~~ {.javascript}
 {
